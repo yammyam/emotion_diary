@@ -1,0 +1,8 @@
+  // localStorage.setItem("test", "hello");
+  // localStorage.setItem("person", JSON.stringify({ name: "홍길동" }));
+
+  // console.log(localStorage.getItem("test"));
+  // console.log(JSON.parse(localStorage.getItem("person")));
+  // JSON.parse를 사용할 때 인수가 undefined라면 오류가 나기때문에 조건문으로 분기할 것
+
+  // localStorage.removeItem("test");
