@@ -1,8 +1,9 @@
-# React + Vite
+## [나만의 작은 감정 일기장](https://emotion-diary-tan-sigma.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+오늘 있었던 일을 작성하고 기록해봐요!
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| 추가                                                                                                                                                  | 삭제                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8) | ![2024-06-068 12 02-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/05505c5a-048d-4b57-9217-83e9299f343d) |
