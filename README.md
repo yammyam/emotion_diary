@@ -10,6 +10,4 @@
 
 |수정|조회|
 |---|---|
-|![2024-06-0611 46 37-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/86d625be-0f19-471f-b9de-1da48a452eb3)
-|![2024-06-0611 50 45-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/6fcdb827-61ef-41d6-ba75-09960540c3b1)
-|
+|![2024-06-0611 46 37-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/86d625be-0f19-471f-b9de-1da48a452eb3)|![2024-06-0611 50 45-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/6fcdb827-61ef-41d6-ba75-09960540c3b1)|
