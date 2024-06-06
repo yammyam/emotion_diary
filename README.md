@@ -5,8 +5,8 @@
 
 Preview
 ---
-|추가|수정|
+|추가|삭제|
 |------|------|
-|![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8)|테스트2|
+|![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8)|![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8)|
 
 
