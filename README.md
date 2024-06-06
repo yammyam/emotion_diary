@@ -5,4 +5,5 @@
 
 Preview
 ---
-<img width="738" alt="스크린샷 2024-06-05 오후 9 23 30" src="https://github.com/yammyam/emotion_diary/assets/96424434/492dd878-d94b-48dc-bd87-441e6ef225cf">
+![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8)
+
