@@ -7,7 +7,7 @@ Preview
 ---
 |추가|삭제|
 |------|------|
-|![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8)|
-https://github.com/yammyam/emotion_diary/assets/96424434/9dd1dd98-0a08-4a59-a5fe-45c7f60a37cd|
+|![ezgif-7-40531bbabf-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/a0d16ec0-c217-46f8-8ca7-bca46834f7f8)|![2024-06-068 12 02-ezgif com-video-to-gif-converter](https://github.com/yammyam/emotion_diary/assets/96424434/05505c5a-048d-4b57-9217-83e9299f343d)
+|
 
 
